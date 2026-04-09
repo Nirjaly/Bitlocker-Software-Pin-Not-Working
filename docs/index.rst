@@ -87,4 +87,4 @@ Also, test your PIN occasionally to ensure it is working correctly and remains f
 Final Thought
 -------------
 
-BitLocker PIN issues can be frustrating, but they are usually easy to resolve with the right steps. By checking for input errors, verifying keyboard settings, and using the recovery key when needed, you can quickly regain access to your system. Proper preparation and secure storage of your recovery key ensure that you stay protected while maintaining access to your data.
+Your `Bitlocker Software Pin Not Working <https://bitlocker-software-pin-not-working.readthedocs.io/en/latest/>`_ can be frustrating, but they are usually easy to resolve with the right steps. By checking for input errors, verifying keyboard settings, and using the recovery key when needed, you can quickly regain access to your system. Proper preparation and secure storage of your recovery key ensure that you stay protected while maintaining access to your data.
